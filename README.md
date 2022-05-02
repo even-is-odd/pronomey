@@ -7,4 +7,4 @@ my third attempt at agender pronouns
 | Singular |    e*   |   ym   |          ir           |        irs         |  ymself   |
 | Plural   |    ey   |   em   |          eir          |        eirs        |  emselves |
 
-*to be pronounced **not** as in the letter E, but as a shorter sound, like the I in "it"
+*to be pronounced **not** as in the letter E, but as a shorter sound, like the I in "it". same goes for the Y in "ym"
