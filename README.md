@@ -1,4 +1,4 @@
-# pronomy
+# pronomey
 my third attempt at agender pronouns
 
 
