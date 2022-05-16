@@ -4,7 +4,7 @@ my third attempt at agender pronouns
 
 |          | Subject | Object | Possessive determiner | Possessive pronoun | Reflexive |
 |----------|---------|--------|-----------------------|--------------------|-----------|
-| Singular |    e*   |   ir   |          ir           |        irs         |  ymself   |
+| Singular |    e*   |   ir   |          ir           |        irs         |  irself   |
 | Plural   |    ey   |   em   |          eir          |        eirs        |  emselves |
 
-*to be pronounced **not** as in the letter E, but as half an "ee" sound, like the I in "it". same goes for the I in "ir"
+*to be pronounced the letter E
