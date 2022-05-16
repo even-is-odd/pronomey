@@ -7,4 +7,4 @@ my third attempt at agender pronouns
 | Singular |    e*   |   ir   |          ir           |        irs         |  irself   |
 | Plural   |    ey   |   em   |          eir          |        eirs        |  emselves |
 
-*to be pronounced the letter E
+*to be pronounced as the letter E
