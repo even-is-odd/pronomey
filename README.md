@@ -2,9 +2,10 @@
 my third attempt at agender pronouns
 
 
-|          | Subject | Object | Possessive determiner | Possessive pronoun | Reflexive |
-|----------|---------|--------|-----------------------|--------------------|-----------|
-| Singular |    e*   |   ir   |          ir           |        irs         |  irself   |
-| Plural   |    ey   |   em   |          eir          |        eirs        |  emselves |
+|          | Subject | Object   | Possessive determiner | Possessive pronoun | Reflexive       |
+|----------|---------|----------|-----------------------|--------------------|-----------------|
+| Singular |  e[^0]  | e/ir[^1] |          ir           |        irs         |  eself/irself   |
+| Plural   |  ey     | em       |          eir          |        eirs        |  emselves       |
 
-*to be pronounced as the letter E
+[^0]: to be pronounced as the letter E
+[^1]: since there are two kinds of people out there and we accept em both
